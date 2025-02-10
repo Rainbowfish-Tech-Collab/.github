@@ -1,8 +1,8 @@
-## 🌈 Welcome to Rainbowfish Tech Collab 🐟
+## 🌈 Welcome to rainbowfish-tech-collab 🐟
 
 ## About Us
 
-The Rainbow Tech Collab, created by [Char](https://github.com/charburton18), is a community of tech creatives focused on growing their knowledge of modern technologies, improving their skills with real-world projects, and fostering a positive and supportive learning environment.
+The rainbowfish-tech-collab, created by [Char](https://github.com/charburton18), is a community of tech creatives focused on growing their knowledge of modern technologies, improving their skills with real-world projects, and fostering a positive and supportive learning environment.
 
 ### Why is it called "Rainbowfish"?
 
